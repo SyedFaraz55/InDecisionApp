@@ -1,0 +1,9 @@
+li span {
+  background: dodgerblue;
+  color: #fff;
+  border: 1px solid dodgerblue;
+  border-radius: 50%;
+  padding: 2px;
+  margin-left: 10px;
+  cursor: pointer;
+}
